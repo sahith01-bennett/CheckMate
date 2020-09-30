@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "536827231092",
+    "firebase_url": "https://checkmate-56a85.firebaseio.com",
+    "project_id": "checkmate-56a85",
+    "storage_bucket": "checkmate-56a85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536827231092:android:25a43a06ec70b731900a21",
+        "android_client_info": {
+          "package_name": "com.example.checkmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536827231092-5bnnks0pcarkinul0p16m53s7vjcvko8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VwijkuOLWOT1uZ6lOFVaYw74D1Wzm6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536827231092-5bnnks0pcarkinul0p16m53s7vjcvko8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
